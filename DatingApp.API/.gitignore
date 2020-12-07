@@ -2,4 +2,9 @@
 bin
 obj
 *.db
+*.db-shm
+*.db-wal
+.suo
+*.v2
+*.sqlite
 appsettings.json
